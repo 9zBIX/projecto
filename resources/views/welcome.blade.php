@@ -87,7 +87,7 @@
                 <div class="links">
                     <a href="https://laravel.com/docs">ella no te ama</a>
                     <a href="https://laracasts.com">hola</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://laravel-news.com">Nueva mente</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
